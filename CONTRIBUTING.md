@@ -8,3 +8,6 @@ The standard is versioned using GitHub. If you are unfamilliar with how to write
 
 Because this repository is an agreement with the entire team changes need to be managed and communicated properly. For this reason this project has a published version on the `master` branch, a next version on the `develop` branch and feature branches for new features and Pull Requests.
 
+## Suggesting or adding changes
+
+In order to add a standard, add a markdown file to the `standards` repository and link to it from the `index.md`.
