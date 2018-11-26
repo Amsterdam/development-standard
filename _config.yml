@@ -3,7 +3,7 @@ title: City of Amsterdam development standard
 include: [CONTRIBUTING.md]
 permalink: pretty
 
-headerHideLogo: true
-
+# Settings for the Amsterdam Jekyll Theme
 remote_theme: amsterdam/amsterdam-jekyll-theme
+headerHideLogo: true
 toc: true
