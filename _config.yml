@@ -1,0 +1,9 @@
+title: City of Amsterdam development standard
+
+include: [CONTRIBUTING.md]
+permalink: pretty
+
+headerHideLogo: true
+
+remote_theme: amsterdam/amsterdam-jekyll-theme
+toc: true
