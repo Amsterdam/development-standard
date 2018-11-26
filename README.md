@@ -2,6 +2,8 @@
 
 The Amsterdam development standard documents the specific technology, tools and processes that DataPunt teams use to build and operate services.
 
+You can view/read the standard in [`index.md`](index.md).
+
 ## License
 
 © Gemeente Amsterdam  
