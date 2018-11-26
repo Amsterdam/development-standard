@@ -1,0 +1,3 @@
+- [ ] The changes I've made are in English
+- [ ] The changes I've made to the standard are clearly articulated
+- [ ] I've explained why the change was made in the commit message or this Pull Request
